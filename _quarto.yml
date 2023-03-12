@@ -1,0 +1,72 @@
+project:
+  type: website
+
+website:
+  title: "Visualization in Biology"
+  page-navigation: true
+   
+  navbar:
+    background: "#d6eaf8"
+    logo: "images/logo.png"
+    align: center
+    title: false
+    
+    left:
+      - text: "Welcome"
+        href: index.qmd
+        
+      - text: "About Me"
+        menu:
+          - href: about.qmd
+            text: "Details"
+          - href: gallery.qmd
+            text: "Gallery"
+            
+      - text: "Research"
+        href: research.qmd
+        
+        
+    right:
+      - icon: github
+        href: https://github.com/bio-visualisation
+      - icon: twitter
+        href: https://twitter.com/VizBio
+      - icon: gear-fill
+        href: https://1c8ogh-budhaditya-basu.shinyapps.io/scb_lab/
+
+  sidebar:
+    - id: about me
+      title: "About Me"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - href: about.qmd
+          text: "Details"
+        - href: gallery.qmd
+          text: "Gallery"
+    
+    - id: research
+      title: "Research Area"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - href: research.qmd
+          text: "Publications"
+        
+  page-footer:
+    left: "This page is built with 🧡 and [Quarto](https://quarto.org/)."
+    background: "#d6eaf8"
+
+format:
+  html:
+    theme: cosmo
+    code-fold: true
+    css: styles.css
+    toc: true
+    include-in-header: "style/fontawesome.html"
+    code-copy: true
+    code-overflow: wrap
+
+editor: visual        

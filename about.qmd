@@ -1,0 +1,41 @@
+---
+title: "About Me"
+---
+
+### Budhaditya Basu
+
+![](files/Me.jpg)<br>
+
+<p align="justify">
+
+I am a senior research fellow at Neuro-Stem Cell Biology Lab in the Department of Regenerative Biology, Rajiv Gandhi Centre for Biotechnology. My research work focuses on the back-splicing events in mammalian retina and its role in axon guidance.I code for biological data analysis, visualization as well as statistics. I use cluster computer for handling big data like bulk RNA-Seq data as well as single-cell RNA-Seq data. I am an avid R enthusiast.<br><br>Periodically I use vector graphics tool like adobe illustrator for scientific illustration and sketching graphical abstract.When I am not in lab, I read books and articles on history and economics. I am an ardent listener of shastriya sangeet. I love to play badminton.I want to pursue the domain that amalgamates machine learning, genomics and neuroscience after my doctoral studies.
+
+</p>
+
+<br>
+
+{{< fa file >}} My CV: <a href="https://drive.google.com/file/d/1gZ1_5GhXQib2D8bC34n5V17GC1pNWFdf/view?usp=share_link" target="_blank">Budhaditya CV</a>
+
+<br>
+
+{{< fa microphone >}} My interview at Journal of Cell Science: <a href="https://doi.org/10.1242/jcs.260800" target="_blank"> Paul Ann Riya and Budhaditya Basu</a> <br>
+
+------------------------------------------------------------------------
+
+<b>Articles published in RGCB newsletter authored by Budhaditya Basu:</b><br><br>
+
+Connecting the dots:<a href="https://rgcb.res.in/documents/newsletter/PULSE-OCTOBER-2019.pdf" target="_blank">PULSE_OCT_2019</a><br><br>
+
+Mind:<a href="https://rgcb.res.in/RGCB-PULSE-JULY-2020/"target="_blank">PULSE_JULY_2020</a>
+
+------------------------------------------------------------------------
+
+**Contact info**
+
+{{< fa envelope >}} budhadityabasu93@gmail.com
+
+{{< fa brands github >}} https://bio-visualisation.github.io/bio/
+
+{{< fa brands twitter >}} https://twitter.com/VizBio
+
+{{< fa map-marker-alt >}} Neuro Stem Cell Biology Lab, Rajiv Gandhi Centre for Biotechnology,      Thiruvananthapuram, Kerala - 695014
