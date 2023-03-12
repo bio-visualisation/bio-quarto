@@ -34,8 +34,8 @@ Mind:<a href="https://rgcb.res.in/RGCB-PULSE-JULY-2020/"target="_blank">PULSE_JU
 
 {{< fa envelope >}} budhadityabasu93@gmail.com
 
-{{< fa brands github >}} https://bio-visualisation.github.io/bio/
+{{< fa brands github >}} https://github.com/bio-visualisation
 
 {{< fa brands twitter >}} https://twitter.com/VizBio
 
-{{< fa map-marker-alt >}} Neuro Stem Cell Biology Lab, Rajiv Gandhi Centre for Biotechnology,      Thiruvananthapuram, Kerala - 695014
+{{< fa map-marker-alt >}} Neuro Stem Cell Biology Lab, Rajiv Gandhi Centre for Biotechnology,      Thiruvananthapuram, Kerala - 695014

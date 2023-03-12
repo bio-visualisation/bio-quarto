@@ -26,13 +26,12 @@ website:
       - text: "Research"
         href: research.qmd
         
-        
     right:
       - icon: github
         href: https://github.com/bio-visualisation
       - icon: twitter
         href: https://twitter.com/VizBio
-      - icon: gear-fill
+      - text: "DataViz App"
         href: https://1c8ogh-budhaditya-basu.shinyapps.io/scb_lab/
 
   sidebar:
