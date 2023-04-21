@@ -5,6 +5,8 @@ project:
 website:
   title: "Visualization in Biology"
   page-navigation: true
+  twitter-card: true
+  favicon: images/logo.png
    
   navbar:
     background: "#d6eaf8"
