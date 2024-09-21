@@ -8,13 +8,13 @@ title: "About Me"
 
 <p align="justify">
 
-I am a senior research fellow at Neuro-Stem Cell Biology Lab in the Department of Regenerative Biology, Rajiv Gandhi Centre for Biotechnology. My research work focuses on the back-splicing events in mammalian retina and its role in axon guidance.I code for biological data analysis, visualization as well as statistics. I use cluster computer for handling big data like bulk RNA-Seq data as well as single-cell RNA-Seq data. I am an avid R enthusiast.<br><br>Periodically I use vector graphics tool like adobe illustrator for scientific illustration and sketching graphical abstract.When I am not in lab, I read books and articles on history and economics. I am an ardent listener of shastriya sangeet. I love to play badminton.I want to pursue the domain that amalgamates machine learning, genomics and neuroscience after my doctoral studies.
+I am a post doctoral scholar at Iowa Neuroscience Institute in the University of Iowa. My research work focuses on the molecular mechanisms of long-term memory impairment in Alzheimer's disease and related dementia.I code for biological data analysis, data visualization. I use high performance computer for handling big data like single-cell multiomics data, or spatial transcriptomics data. I am an avid R enthusiast.<br><br>Periodically I use vector graphics tool like adobe illustrator for scientific illustration and sketching graphical abstract.When I am not in lab, I read books and articles on history and economics. I am an ardent listener of shastriya sangeet. I love to play badminton.I am pursuing the research domain that amalgamates big data and neuroscience after my doctoral studies.
 
 </p>
 
 <br>
 
-{{< fa file >}} My CV: <a href="https://drive.google.com/file/d/1gZ1_5GhXQib2D8bC34n5V17GC1pNWFdf/view?usp=share_link" target="_blank">Budhaditya CV</a>
+{{< fa file >}} My CV: <a href="https://drive.google.com/file/d/1-PGHqGKY6akvkFK4CiTE2IOA1gO9Oe9Y/view?usp=sharing" target="_blank">Budhaditya CV</a>
 
 <br>
 
@@ -32,10 +32,8 @@ Mind:<a href="https://rgcb.res.in/RGCB-PULSE-JULY-2020/"target="_blank">PULSE_JU
 
 **Contact info**
 
-{{< fa envelope >}} budhadityabasu93@gmail.com
+{{< fa envelope >}} budhaditya-basu\@uiowa.edu
 
-{{< fa brands github >}} https://github.com/bio-visualisation
+{{< fa brands linkedin >}} [https://www.linkedin.com/in/budhadityaneuro/](https://www.linkedin.com/in/budhadityaneuro/){target="_blank"}
 
-{{< fa brands twitter >}} https://twitter.com/VizBio
-
-{{< fa map-marker-alt >}} Neuro Stem Cell Biology Lab, Rajiv Gandhi Centre for Biotechnology,      Thiruvananthapuram, Kerala - 695014
+{{< fa map-marker-alt >}} 169 Newton Road, Iowa City, IA 52242

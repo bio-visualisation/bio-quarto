@@ -1,30 +1,52 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Budhaditya Basu\n\n\nI am a senior research fellow at Neuro-Stem Cell Biology Lab in the Department of Regenerative Biology, Rajiv Gandhi Centre for Biotechnology. My research work focuses on the back-splicing events in mammalian retina and its role in axon guidance.I code for biological data analysis, visualization as well as statistics. I use cluster computer for handling big data like bulk RNA-Seq data as well as single-cell RNA-Seq data. I am an avid R enthusiast.Periodically I use vector graphics tool like adobe illustrator for scientific illustration and sketching graphical abstract.When I am not in lab, I read books and articles on history and economics. I am an ardent listener of shastriya sangeet. I love to play badminton.I want to pursue the domain that amalgamates machine learning, genomics and neuroscience after my doctoral studies.\n\n\n My CV: Budhaditya CV\n\n My interview at Journal of Cell Science:  Paul Ann Riya and Budhaditya Basu \n\nArticles published in RGCB newsletter authored by Budhaditya Basu:\nConnecting the dots:PULSE_OCT_2019\nMind:PULSE_JULY_2020\n\nContact info\n budhadityabasu93@gmail.com\n https://github.com/bio-visualisation\n https://twitter.com/VizBio\n Neuro Stem Cell Biology Lab, Rajiv Gandhi Centre for Biotechnology, Thiruvananthapuram, Kerala - 695014"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "This page is developed for sharing some useful resources for learning R, statistics, data visualization and biological sequence analysis. This is just a place for me to collate some of the best websites/ tutorials that I have found useful during my research. This includes a lot of links and hard work done by the dedicated R community and I just use only a subset of codes that is relevant for my work. In the spirit of learning process, I created these bunch of pages in Quarto document and of course I failed initially, Googled thousand times, tried lots of code chunks and that is the process of learning R. I am adding here some of the plots that I made past few years. You can contact me if you want to collaborate or have queries regarding data visualization.\n\n\n\n\n\n\n\n              \n\n\n\nWorkshop: Data Visualization Using R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop material:  Workshop slides"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Riya et al.\n\nJournal of Cell ScienceVolume 135, Issue 22November, 2022\n\n\n\n\n\n\n\n\nNotch signaling and its downstream gene target HES1 play a critical role in regulating and maintaining cancer stem cells (CSCs), similar to as they do during embryonic development. Here, we report a unique subclass of Notch-independent Hes-1 (NIHes-1)-expressing CSCs in neuroblastoma. These CSCs maintain sustained HES1 expression by activation of HES1 promoter region upstream of classical CBF-1 binding sites, thereby completely bypassing Notch receptor-mediated activation. These stem cells have self-renewal ability and potential to generate tumors. Interestingly, we observed that NIHes-1 CSCs could transition to Notch-dependent Hes-1-expressing (NDHes-1) CSCs where HES1 is expressed by Notch receptor-mediated promoter activation. We observed that NDHes-1-expressing CSCs also had the potential to transition to NIHes-1 CSCs and during this coordinated bidirectional transition, both CSCs gave rise to the majority of the bulk cancer cells, which had an inactive HES1 promoter (PIHes-1). A few of these PIHes-1 cells were capable of reverting into a CSC state. These findings explain the existence of a heterogenic mode of HES1 promoter activation within the IMR-32 neuroblastoma cell line and the potential to switch between them.\n\n Download Pdf\n View Journal Link\n View PubMed"
+    "text": "Riya et al.\n\nJournal of Cell ScienceVolume 135, Issue 22November, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNotch signaling and its downstream gene target HES1 play a critical role in regulating and maintaining cancer stem cells (CSCs), similar to as they do during embryonic development. Here, we report a unique subclass of Notch-independent Hes-1 (NIHes-1)-expressing CSCs in neuroblastoma. These CSCs maintain sustained HES1 expression by activation of HES1 promoter region upstream of classical CBF-1 binding sites, thereby completely bypassing Notch receptor-mediated activation. These stem cells have self-renewal ability and potential to generate tumors. Interestingly, we observed that NIHes-1 CSCs could transition to Notch-dependent Hes-1-expressing (NDHes-1) CSCs where HES1 is expressed by Notch receptor-mediated promoter activation. We observed that NDHes-1-expressing CSCs also had the potential to transition to NIHes-1 CSCs and during this coordinated bidirectional transition, both CSCs gave rise to the majority of the bulk cancer cells, which had an inactive HES1 promoter (PIHes-1). A few of these PIHes-1 cells were capable of reverting into a CSC state. These findings explain the existence of a heterogenic mode of HES1 promoter activation within the IMR-32 neuroblastoma cell line and the potential to switch between them.\n\n View Journal Link\n View PubMed",
+    "crumbs": [
+      "Research",
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "research.html#hes1-promoter-activation-dynamics-reveal-the-plasticitystemness-and-heterogeneity-in-neuroblastoma-cancer-stem-cells",
+    "href": "research.html#hes1-promoter-activation-dynamics-reveal-the-plasticitystemness-and-heterogeneity-in-neuroblastoma-cancer-stem-cells",
+    "title": "Research",
+    "section": "",
+    "text": "Riya et al.\n\nJournal of Cell ScienceVolume 135, Issue 22November, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nNotch signaling and its downstream gene target HES1 play a critical role in regulating and maintaining cancer stem cells (CSCs), similar to as they do during embryonic development. Here, we report a unique subclass of Notch-independent Hes-1 (NIHes-1)-expressing CSCs in neuroblastoma. These CSCs maintain sustained HES1 expression by activation of HES1 promoter region upstream of classical CBF-1 binding sites, thereby completely bypassing Notch receptor-mediated activation. These stem cells have self-renewal ability and potential to generate tumors. Interestingly, we observed that NIHes-1 CSCs could transition to Notch-dependent Hes-1-expressing (NDHes-1) CSCs where HES1 is expressed by Notch receptor-mediated promoter activation. We observed that NDHes-1-expressing CSCs also had the potential to transition to NIHes-1 CSCs and during this coordinated bidirectional transition, both CSCs gave rise to the majority of the bulk cancer cells, which had an inactive HES1 promoter (PIHes-1). A few of these PIHes-1 cells were capable of reverting into a CSC state. These findings explain the existence of a heterogenic mode of HES1 promoter activation within the IMR-32 neuroblastoma cell line and the potential to switch between them.\n\n View Journal Link\n View PubMed",
+    "crumbs": [
+      "Research",
+      "Publications"
+    ]
   },
   {
     "objectID": "research.html#pax6-modulates-intra-retinal-axon-guidance-and-fasciculation-of-retinal-ganglion-cells-during-retinogenesis",
     "href": "research.html#pax6-modulates-intra-retinal-axon-guidance-and-fasciculation-of-retinal-ganglion-cells-during-retinogenesis",
     "title": "Research",
     "section": "Pax6 modulates intra-retinal axon guidance and fasciculation of retinal ganglion cells during retinogenesis",
-    "text": "Pax6 modulates intra-retinal axon guidance and fasciculation of retinal ganglion cells during retinogenesis\n\nLalitha et al.\n\nScientific ReportsVolume 10, Issue 1September, 2020\n\nAbstract\n\n\n\n\n\n\nIntra-retinal axon guidance involves a coordinated expression of transcription factors, axon guidance genes, and secretory molecules within the retina. Pax6, the master regulator gene, has a spatio-temporal expression typically restricted till neurogenesis and fate-specification. However, our observation of persistent expression of Pax6 in mature RGCs led us to hypothesize that Pax6 could play a major role in axon guidance after fate specification. Here, we found significant alteration in intra-retinal axon guidance and fasciculation upon knocking out of Pax6 in E15.5 retina. Through unbiased transcriptome profiling between Pax6fl/fl and Pax6−/− retinas, we revealed the mechanistic insight of its role in axon guidance. Our results showed a significant increase in the expression of extracellular matrix molecules and decreased expression of retinal fate specification and neuron projection guidance molecules. Additionally, we found that EphB1 and Sema5B are directly regulated by Pax6 owing to the guidance defects and improper fasciculation of axons. We conclude that Pax6 expression post fate specification of RGCs is necessary for regulating the expression of axon guidance genes and most importantly for maintaining a conducive ECM through which the nascent axons get guided and fasciculate to reach the optic disc.\n\n Download\n View Journal Link\n View PubMed"
+    "text": "Pax6 modulates intra-retinal axon guidance and fasciculation of retinal ganglion cells during retinogenesis\n\nLalitha et al.\n\nScientific ReportsVolume 10, Issue 1September, 2020\n\nAbstract\n\n\n\n\n\n\n\n\n\n\nIntra-retinal axon guidance involves a coordinated expression of transcription factors, axon guidance genes, and secretory molecules within the retina. Pax6, the master regulator gene, has a spatio-temporal expression typically restricted till neurogenesis and fate-specification. However, our observation of persistent expression of Pax6 in mature RGCs led us to hypothesize that Pax6 could play a major role in axon guidance after fate specification. Here, we found significant alteration in intra-retinal axon guidance and fasciculation upon knocking out of Pax6 in E15.5 retina. Through unbiased transcriptome profiling between Pax6fl/fl and Pax6−/− retinas, we revealed the mechanistic insight of its role in axon guidance. Our results showed a significant increase in the expression of extracellular matrix molecules and decreased expression of retinal fate specification and neuron projection guidance molecules. Additionally, we found that EphB1 and Sema5B are directly regulated by Pax6 owing to the guidance defects and improper fasciculation of axons. We conclude that Pax6 expression post fate specification of RGCs is necessary for regulating the expression of axon guidance genes and most importantly for maintaining a conducive ECM through which the nascent axons get guided and fasciculate to reach the optic disc.\n\n View Journal Link\n View PubMed",
+    "crumbs": [
+      "Research",
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Budhaditya Basu\n\n\nI am a post doctoral scholar at Iowa Neuroscience Institute in the University of Iowa. My research work focuses on the molecular mechanisms of long-term memory impairment in Alzheimer’s disease and related dementia.I code for biological data analysis, data visualization. I use high performance computer for handling big data like single-cell multiomics data, or spatial transcriptomics data. I am an avid R enthusiast.Periodically I use vector graphics tool like adobe illustrator for scientific illustration and sketching graphical abstract.When I am not in lab, I read books and articles on history and economics. I am an ardent listener of shastriya sangeet. I love to play badminton.I am pursuing the research domain that amalgamates big data and neuroscience after my doctoral studies.\n\n\n My CV: Budhaditya CV\n\n My interview at Journal of Cell Science:  Paul Ann Riya and Budhaditya Basu \n\nArticles published in RGCB newsletter authored by Budhaditya Basu:\nConnecting the dots:PULSE_OCT_2019\nMind:PULSE_JULY_2020\n\nContact info\n budhaditya-basu@uiowa.edu\n https://www.linkedin.com/in/budhadityaneuro/\n 169 Newton Road, Iowa City, IA 52242",
+    "crumbs": [
+      "Details"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This page is developed for sharing some useful resources for learning R, statistics, data visualization and biological sequence analysis. This is just a place for me to collate some of the best websites/ tutorials that I have found useful during my research. This includes a lot of links and hard work done by the dedicated R community and I just use only a subset of codes that is relevant for my work. In the spirit of learning process, I created these bunch of pages in Quarto document and of course I failed initially, Googled thousand times, tried lots of code chunks and that is the process of learning R. I am adding here some of the plots that I made past few years. You can contact me if you want to collaborate or have queries regarding data visualization.\n\n\n\n\n\n\n\n              \n\n\n\nWorkshop: Data Visualization Using R"
   }
 ]

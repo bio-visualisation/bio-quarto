@@ -25,16 +25,28 @@ website:
           - href: gallery.qmd
             text: "Gallery"
             
+      - text: "Resources"
+        menu: 
+          - text: "R Workshop material"
+            href: https://bio-visualisation.github.io/Intro_2_R/
+            target: _blank
+            
       - text: "Research"
         href: research.qmd
         
+      
+ 
+        
     right:
       - icon: github
-        href: https://github.com/bio-visualisation
+        href: https://github.com/bio-visualisation/
+        target: _blank
       - icon: twitter
-        href: https://twitter.com/VizBio
+        href: https://twitter.com/VizBio/
+        target: _blank
       - text: "DataViz App"
         href: https://1c8ogh-budhaditya-basu.shinyapps.io/scb_lab/
+        target: _blank
 
   sidebar:
     - id: about me
