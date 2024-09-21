@@ -30,6 +30,9 @@ website:
           - text: "R Workshop material"
             href: https://bio-visualisation.github.io/Intro_2_R/
             target: _blank
+          - text: "Bioinformatics handbook"
+            href: https://bio-visualisation.github.io/Bioinformatics_handbook/
+            target: _blank
             
       - text: "Research"
         href: research.qmd
