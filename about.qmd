@@ -14,7 +14,7 @@ I am a post doctoral scholar at Iowa Neuroscience Institute in the University of
 
 <br>
 
-{{< fa file >}} My CV: <a href="https://drive.google.com/file/d/1_Z3k7JXNWNAUzlhhQD6HGEtu8EJ1WxMT/view?usp=drive_link" target="_blank">Budhaditya CV</a>
+{{< fa file >}} My CV: <a href="https://drive.google.com/file/d/1V7GJlmT_YFlhi47lWOsSLrTO9uHQAb11/view?usp=drive_link" target="_blank">Budhaditya CV</a>
 
 <br>
 
@@ -32,7 +32,7 @@ Mind:<a href="https://rgcb.res.in/RGCB-PULSE-JULY-2020/"target="_blank">PULSE_JU
 
 **Contact info**
 
-{{< fa envelope >}} budhaditya-basu\@uiowa.edu
+{{< fa envelope >}} budhadityabasu93\@gmail.com
 
 {{< fa brands linkedin >}} [https://www.linkedin.com/in/budhadityaneuro/](https://www.linkedin.com/in/budhadityaneuro/){target="_blank"}
 
