@@ -36,4 +36,4 @@ Mind:<a href="https://rgcb.res.in/RGCB-PULSE-JULY-2020/"target="_blank">PULSE_JU
 
 {{< fa brands linkedin >}} [https://www.linkedin.com/in/budhadityaneuro/](https://www.linkedin.com/in/budhadityaneuro/){target="_blank"}
 
-{{< fa map-marker-alt >}} 169 Newton Road, Iowa City, IA 52242
+{{< fa map-marker-alt >}} 169 Newton Road, Iowa City, IA 52242 USA
