@@ -4,7 +4,11 @@ title: "Research"
 
 ## TLX3 regulates CGN progenitor proliferation during cerebellum development and its dysfunction can lead to autism
 
-<p style="color:blue">Parvathy *et al.*</p>
+<p style="color:blue">
+
+Parvathy *et al.*
+
+</p>
 
 **iScience**<br>Volume 27, Issue 12<br>December, 2024
 
@@ -20,16 +24,19 @@ Tlx3, a master regulator of the fate specification of excitatory neurons, is pri
 
 </p>
 
-{{< fa link >}} [View Journal Link](10.1016/j.isci.2024.111260){target="_blank"}
+{{< fa link >}} [View Journal Link](https://doi.org/10.1016/j.isci.2024.111260){target="_blank"}
 
 {{< fa link >}} [View PubMed](https://pubmed.ncbi.nlm.nih.gov/39628587/){target="_blank"}
 
 ------------------------------------------------------------------------
 
-
 ## <i>HES1</i> promoter activation dynamics reveal the plasticity,stemness and heterogeneity in neuroblastoma cancer stem cells
 
-<p style="color:blue"> Riya *et al.*</p>
+<p style="color:blue">
+
+Riya *et al.*
+
+</p>
 
 **Journal of Cell Science**<br>Volume 135, Issue 22<br>November, 2022
 
@@ -53,7 +60,11 @@ Notch signaling and its downstream gene target <i>HES1</i> play a critical role 
 
 ## **Pax6 modulates intra-retinal axon guidance and fasciculation of retinal ganglion cells during retinogenesis**
 
-<p style="color:blue">Lalitha *et al.*</p>
+<p style="color:blue">
+
+Lalitha *et al.*
+
+</p>
 
 **Scientific Reports**<br>Volume 10, Issue 1<br>September, 2020
 
