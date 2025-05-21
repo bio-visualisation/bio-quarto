@@ -32,8 +32,16 @@ Mind:<a href="https://rgcb.res.in/RGCB-PULSE-JULY-2020/"target="_blank">PULSE_JU
 
 **Contact info**
 
-{{< fa envelope >}} budhadityabasu93\@gmail.com
+{{< fa envelope >}} budhadityabasu93@gmail.com
 
-{{< fa brands linkedin >}} [https://www.linkedin.com/in/budhadityaneuro/](https://www.linkedin.com/in/budhadityaneuro/){target="_blank"}
+<i class="fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/budhadityaneuro/){target="_blank"}
+
+<i class="fa-brands fa-github"></i> [GitHub](https://github.com/bio-visualisation){target="_blank"}
+
+<i class="fa-brands fa-x-twitter"></i> [X.(Twitter)](https://x.com/budhaditya05){target="_blank"}
+
+<i class="fa-brands fa-orcid"></i> [ORCiD](https://orcid.org/0009-0008-6696-567X){target="_blank"}
+
+<i class="fa-brands fa-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=G371R-YAAAAJ&hl=en){target="_blank"}
 
 {{< fa map-marker-alt >}} 169 Newton Road, Iowa City, IA 52242 USA
