@@ -1,10 +1,20 @@
 [
   {
-    "objectID": "writings.html",
-    "href": "writings.html",
-    "title": "writings",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "##বিদায় নিয়েছ তুমি"
+    "text": "Budhaditya Basu\n\n\nI am a post doctoral scholar at Iowa Neuroscience Institute in the University of Iowa. My research work focuses on the molecular mechanisms of long-term memory impairment in Alzheimer’s disease and related dementia.I code for biological data analysis, data visualization. I use high performance computer for handling big data like single-cell multiomics data, or spatial transcriptomics data. I am an avid R enthusiast.Periodically I use vector graphics tool like adobe illustrator for scientific illustration and sketching graphical abstract.When I am not in lab, I read books and articles on history and economics. I am an ardent listener of shastriya sangeet. I love to play badminton.I am pursuing the research domain that amalgamates big data and neuroscience after my doctoral studies.\n\n\n My CV: Budhaditya CV\n\n My interview at Journal of Cell Science:  Paul Ann Riya and Budhaditya Basu \n\nArticles published in RGCB newsletter authored by Budhaditya Basu:\nConnecting the dots:PULSE_OCT_2019\nMind:PULSE_JULY_2020\n\nContact info\n budhadityabasu93@gmail.com\n LinkedIn\n GitHub\n X.(Twitter)\n ORCiD\n Google Scholar\n 169 Newton Road, Iowa City, IA 52242 USA",
+    "crumbs": [
+      "Details"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This page is developed for sharing some useful resources for learning R, statistics, data visualization and biological sequence analysis. This is just a place for me to collate some of the best websites/ tutorials that I have found useful during my research. This includes a lot of links and hard work done by the dedicated R community and I just use only a subset of codes that is relevant for my work. In the spirit of learning process, I created these bunch of pages in Quarto document and of course I failed initially, Googled thousand times, tried lots of code chunks and that is the process of learning R. I am adding here some of the plots that I made past few years. You can contact me if you want to collaborate or have queries regarding data visualization.\n\n\n\n\n\n\n\n              \n\n\n\nWorkshop: Data Visualization Using R"
   },
   {
     "objectID": "research.html",
@@ -48,23 +58,6 @@
     "crumbs": [
       "Research",
       "Publications"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "This page is developed for sharing some useful resources for learning R, statistics, data visualization and biological sequence analysis. This is just a place for me to collate some of the best websites/ tutorials that I have found useful during my research. This includes a lot of links and hard work done by the dedicated R community and I just use only a subset of codes that is relevant for my work. In the spirit of learning process, I created these bunch of pages in Quarto document and of course I failed initially, Googled thousand times, tried lots of code chunks and that is the process of learning R. I am adding here some of the plots that I made past few years. You can contact me if you want to collaborate or have queries regarding data visualization.\n\n\n\n\n\n\n\n              \n\n\n\nWorkshop: Data Visualization Using R"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Budhaditya Basu\n\n\nI am a post doctoral scholar at Iowa Neuroscience Institute in the University of Iowa. My research work focuses on the molecular mechanisms of long-term memory impairment in Alzheimer’s disease and related dementia.I code for biological data analysis, data visualization. I use high performance computer for handling big data like single-cell multiomics data, or spatial transcriptomics data. I am an avid R enthusiast.Periodically I use vector graphics tool like adobe illustrator for scientific illustration and sketching graphical abstract.When I am not in lab, I read books and articles on history and economics. I am an ardent listener of shastriya sangeet. I love to play badminton.I am pursuing the research domain that amalgamates big data and neuroscience after my doctoral studies.\n\n\n My CV: Budhaditya CV\n\n My interview at Journal of Cell Science:  Paul Ann Riya and Budhaditya Basu \n\nArticles published in RGCB newsletter authored by Budhaditya Basu:\nConnecting the dots:PULSE_OCT_2019\nMind:PULSE_JULY_2020\n\nContact info\n budhadityabasu93@gmail.com\n LinkedIn\n GitHub\n X.(Twitter)\n ORCiD\n Google Scholar\n 169 Newton Road, Iowa City, IA 52242 USA",
-    "crumbs": [
-      "Details"
     ]
   }
 ]
