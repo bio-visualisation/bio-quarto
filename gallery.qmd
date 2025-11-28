@@ -2,8 +2,14 @@
 title: "Gallery"
 ---
 
-::: {layout-ncol="2"}
-![A visit to "Root Bridge" at Meghalaya.](files/1.jpg) ![Friends\' day out.](files/2.jpg)
-
-![Science Day Expo.](files/3.jpg) ![RGCB Merit Award 2019](files/5.jpg)
+::: {layout-nrow="5"}
+![A visit to "Root Bridge" at Meghalaya.](files/1.jpg) 
+![Friends' day out.](files/2.jpg)
+![Science Day Expo.](files/3.jpg) 
+![RGCB Merit Award 2019](files/5.jpg)
+![R workshop](files/P2.jpg)
+![Thesis defense](files/P4.jpg)
+![Trekking](files/P5.jpg)
+![INI Social](files/P6.jpg)
+![](files/P8.jpg)
 :::

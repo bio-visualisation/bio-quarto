@@ -2,7 +2,6 @@
 title: "Research"
 ---
 
-
 ## Single-cell resolution spatial transcriptomic signature of the retrosplenial cortex during memory consolidation
 
 <p style="color:blue">Bliese^#^,Basu^#^ *et al.*</p>
@@ -15,16 +14,13 @@ title: "Research"
 knitr::include_graphics("files/RSC_abstract.png")
 ```
 
-
 <p align="justify">
-The retrosplenial cortex (RSC) is a critical brain region that is activated during spatial memory tasks and plays a crucial role in the consolidation of long-term memory. Various classes of RSC excitatory neurons across different laminar layers serve as the central hub for neuronal connections between the RSC and other brain regions, such as the hippocampus. Despite the established role of the RSC in spatial memory, the transcriptomic signature of the neuronal subtypes in the RSC during spatial memory consolidation remained elusive. Here, we used unbiased and targeted spatial transcriptomics to identify the RSC transcriptional signature after a spatial memory task. Genes related to transcription regulation, protein folding, and mitogen-activated protein kinase pathways were upregulated in the RSC during an early time window of memory consolidation. Furthermore, cell-type and excitatory neuronal layer-specific changes in gene expression were resolved using Xenium spatial transcriptomics. A deep learning computational tool uncovered cell-type-specific molecular activation patterns within the RSC after learning. Conversely, in a mouse model of Alzheimer’s disease and related dementia (ADRD) exhibiting tau hyperphosphorylation in the RSC, there was a reduction in predicted neuronal activation following learning. Notably, learning-induced Fos expression was decreased in excitatory neurons of the RSC in the ADRD mice. Finally, we observed that blocking RSC excitatory neurons during the early temporal window after learning using a chemogenetic approach impaired long-term spatial memory in adult mice. Our results reveal a molecular signature of the RSC after learning and emphasize the role of RSC excitatory neurons during spatial memory consolidation.
+The retrosplenial cortex (RSC) is a critical brain region that is activated during spatial memory tasks and plays a crucial role in the consolidation of long-term memory. Various classes of RSC excitatory neurons across different laminar layers serve as the central hub for neuronal connections between the RSC and other brain regions, such as the hippocampus. Despite the established role of the RSC in spatial memory, the transcriptomic signature of the neuronal subtypes in the RSC during spatial memory consolidation remained elusive. Here, we used unbiased and targeted spatial transcriptomics to identify the RSC transcriptional signature after a spatial memory task. Genes related to transcription regulation, protein folding, and mitogen-activated protein kinase pathways were upregulated in the RSC during an early time window of memory consolidation. Furthermore, cell-type and excitatory neuronal layer-specific changes in gene expression were resolved using Xenium spatial transcriptomics. A deep learning computational tool uncovered cell-type-specific molecular activation patterns within the RSC after learning. Conversely, in a mouse model of Alzheimer's disease and related dementia (ADRD) exhibiting tau hyperphosphorylation in the RSC, there was a reduction in predicted neuronal activation following learning. Notably, learning-induced Fos expression was decreased in excitatory neurons of the RSC in the ADRD mice. Finally, we observed that blocking RSC excitatory neurons during the early temporal window after learning using a chemogenetic approach impaired long-term spatial memory in adult mice. Our results reveal a molecular signature of the RSC after learning and emphasize the role of RSC excitatory neurons during spatial memory consolidation.
 </p>
 
 {{< fa link >}} [View Journal Link](https://doi.org/10.1038/s41380-025-03331-3){target="_blank"}
 
 {{< fa link >}} [View PubMed](https://pubmed.ncbi.nlm.nih.gov/41188622/){target="_blank"}
-
-
 
 ## TLX3 regulates CGN progenitor proliferation during cerebellum development and its dysfunction can lead to autism
 
@@ -89,6 +85,5 @@ Intra-retinal axon guidance involves a coordinated expression of transcription f
 {{< fa link >}} [View Journal Link](https://doi.org/10.1038/s41598-020-72828-4){target="_blank"}
 
 {{< fa link >}} [View PubMed](https://pubmed.ncbi.nlm.nih.gov/32999322/){target="_blank"}
-
 
 ------------------------------------------------------------------------
