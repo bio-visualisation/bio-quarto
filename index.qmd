@@ -8,7 +8,7 @@ This page is developed for sharing some useful resources for learning R, statist
 
 </p>
 
-|  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |:-----------------------------------------------------------------------|
 | <img src="files/7.jpg" width="30%"/> <img src="files/8.jpg" width="20%"/> <img src="files/9.jpg" width="40%"/> <img src="files/10.jpg" width="70%"/> <img src="files/11.jpg" width="25%"/> <img src="files/12.jpg" width="30%"/> <img src="files/13.jpg" width="20%"/> <img src="files/14.jpg" width="20%"/> <img src="files/15.jpg" width="25%"/> <img src="files/16.jpg" width="30%"/> <img src="files/17.jpg" width="30%"/> <img src="files/18.jpg" width="30%"/> <img src="files/19.jpg" width="30%"/> <img src="files/20.jpg" width="30%"/> <img src="files/21.jpg" width="30%"/> |
 

@@ -2,13 +2,33 @@
 title: "Research"
 ---
 
+
+## Single-cell resolution spatial transcriptomic signature of the retrosplenial cortex during memory consolidation
+
+<p style="color:blue">Bliese^#^,Basu^#^ *et al.*</p>
+
+**Molecular Psychiatry (Mol Psychiatry)**<br><br>November, 2025
+
+### **Abstract**
+
+```{r out.width='50%', out.height='30%', echo= FALSE, fig.align='center', out.extra='style="float:middle; padding:10px"'}
+knitr::include_graphics("files/RSC_abstract.png")
+```
+
+
+<p align="justify">
+The retrosplenial cortex (RSC) is a critical brain region that is activated during spatial memory tasks and plays a crucial role in the consolidation of long-term memory. Various classes of RSC excitatory neurons across different laminar layers serve as the central hub for neuronal connections between the RSC and other brain regions, such as the hippocampus. Despite the established role of the RSC in spatial memory, the transcriptomic signature of the neuronal subtypes in the RSC during spatial memory consolidation remained elusive. Here, we used unbiased and targeted spatial transcriptomics to identify the RSC transcriptional signature after a spatial memory task. Genes related to transcription regulation, protein folding, and mitogen-activated protein kinase pathways were upregulated in the RSC during an early time window of memory consolidation. Furthermore, cell-type and excitatory neuronal layer-specific changes in gene expression were resolved using Xenium spatial transcriptomics. A deep learning computational tool uncovered cell-type-specific molecular activation patterns within the RSC after learning. Conversely, in a mouse model of Alzheimer’s disease and related dementia (ADRD) exhibiting tau hyperphosphorylation in the RSC, there was a reduction in predicted neuronal activation following learning. Notably, learning-induced Fos expression was decreased in excitatory neurons of the RSC in the ADRD mice. Finally, we observed that blocking RSC excitatory neurons during the early temporal window after learning using a chemogenetic approach impaired long-term spatial memory in adult mice. Our results reveal a molecular signature of the RSC after learning and emphasize the role of RSC excitatory neurons during spatial memory consolidation.
+</p>
+
+{{< fa link >}} [View Journal Link](https://doi.org/10.1038/s41380-025-03331-3){target="_blank"}
+
+{{< fa link >}} [View PubMed](https://pubmed.ncbi.nlm.nih.gov/41188622/){target="_blank"}
+
+
+
 ## TLX3 regulates CGN progenitor proliferation during cerebellum development and its dysfunction can lead to autism
 
-<p style="color:blue">
-
-Parvathy *et al.*
-
-</p>
+<p style="color:blue">Parvathy *et al.*</p>
 
 **iScience**<br>Volume 27, Issue 12<br>December, 2024
 
@@ -19,9 +39,7 @@ knitr::include_graphics("files/tlx3.jpg")
 ```
 
 <p align="justify">
-
 Tlx3, a master regulator of the fate specification of excitatory neurons, is primarily known to function in post-mitotic cells. Although we have previously identified TLX3 expression in the proliferating granule neuron progenitors (GNPs) of cerebellum, its primary role is unknown. Here, we demonstrate that the dysfunction of Tlx3 from the GNPs significantly reduced its proliferation through regulating anti-proliferative genes. Consequently, the altered generation of GNPs resulted in cerebellar hypoplasia, patterning defects, granule neuron-Purkinje ratio imbalance, and aberrant synaptic connections in the cerebellum. This altered cerebellar homeostasis manifested into a typical autism-like behavior in mice with motor, and social function disabilities. We also show the presence of TLX3 variants with uncharacterized mutations in human cases of autism spectrum disorder (ASD). Altogether, our study establishes Tlx3 as a critical gene involved in developing GNPs and that its deletion from the early developmental stage culminates in autism.
-
 </p>
 
 {{< fa link >}} [View Journal Link](https://doi.org/10.1016/j.isci.2024.111260){target="_blank"}
@@ -32,11 +50,7 @@ Tlx3, a master regulator of the fate specification of excitatory neurons, is pri
 
 ## <i>HES1</i> promoter activation dynamics reveal the plasticity,stemness and heterogeneity in neuroblastoma cancer stem cells
 
-<p style="color:blue">
-
-Riya *et al.*
-
-</p>
+<p style="color:blue">Riya^#^,Basu^#^ *et al.*</p>
 
 **Journal of Cell Science**<br>Volume 135, Issue 22<br>November, 2022
 
@@ -47,9 +61,7 @@ knitr::include_graphics("files/NDHes1.jpg")
 ```
 
 <p align="justify">
-
 Notch signaling and its downstream gene target <i>HES1</i> play a critical role in regulating and maintaining cancer stem cells (CSCs), similar to as they do during embryonic development. Here, we report a unique subclass of Notch-independent Hes-1 (NIHes-1)-expressing CSCs in neuroblastoma. These CSCs maintain sustained <i>HES1</i> expression by activation of <i>HES1</i> promoter region upstream of classical CBF-1 binding sites, thereby completely bypassing Notch receptor-mediated activation. These stem cells have self-renewal ability and potential to generate tumors. Interestingly, we observed that NIHes-1 CSCs could transition to Notch-dependent Hes-1-expressing (NDHes-1) CSCs where <i>HES1</i> is expressed by Notch receptor-mediated promoter activation. We observed that NDHes-1-expressing CSCs also had the potential to transition to NIHes-1 CSCs and during this coordinated bidirectional transition, both CSCs gave rise to the majority of the bulk cancer cells, which had an inactive <i>HES1</i> promoter (PIHes-1). A few of these PIHes-1 cells were capable of reverting into a CSC state. These findings explain the existence of a heterogenic mode of <i>HES1</i> promoter activation within the IMR-32 neuroblastoma cell line and the potential to switch between them.
-
 </p>
 
 {{< fa link >}} [View Journal Link](https://doi.org/10.1242/jcs.260157){target="_blank"}
@@ -60,11 +72,7 @@ Notch signaling and its downstream gene target <i>HES1</i> play a critical role 
 
 ## **Pax6 modulates intra-retinal axon guidance and fasciculation of retinal ganglion cells during retinogenesis**
 
-<p style="color:blue">
-
-Lalitha *et al.*
-
-</p>
+<p style="color:blue">Lalitha *et al.*</p>
 
 **Scientific Reports**<br>Volume 10, Issue 1<br>September, 2020
 
@@ -75,9 +83,7 @@ knitr::include_graphics("files/Figure-4.jpg")
 ```
 
 <p align="justify">
-
 Intra-retinal axon guidance involves a coordinated expression of transcription factors, axon guidance genes, and secretory molecules within the retina. Pax6, the master regulator gene, has a spatio-temporal expression typically restricted till neurogenesis and fate-specification. However, our observation of persistent expression of Pax6 in mature RGCs led us to hypothesize that Pax6 could play a major role in axon guidance after fate specification. Here, we found significant alteration in intra-retinal axon guidance and fasciculation upon knocking out of Pax6 in E~15.5~ retina. Through unbiased transcriptome profiling between Pax6^fl/fl^ and Pax6^−/−^ retinas, we revealed the mechanistic insight of its role in axon guidance. Our results showed a significant increase in the expression of extracellular matrix molecules and decreased expression of retinal fate specification and neuron projection guidance molecules. Additionally, we found that EphB1 and Sema5B are directly regulated by Pax6 owing to the guidance defects and improper fasciculation of axons. We conclude that Pax6 expression post fate specification of RGCs is necessary for regulating the expression of axon guidance genes and most importantly for maintaining a conducive ECM through which the nascent axons get guided and fasciculate to reach the optic disc.
-
 </p>
 
 {{< fa link >}} [View Journal Link](https://doi.org/10.1038/s41598-020-72828-4){target="_blank"}
