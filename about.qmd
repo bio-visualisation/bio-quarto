@@ -12,7 +12,7 @@ I am a post doctoral scholar at Iowa Neuroscience Institute in the University of
 
 <br>
 
-{{< fa file >}} My CV: <a href="https://drive.google.com/file/d/1E9mINWf-raW1_H3wr8ZANsIZ2B6LFcM7/view?usp=sharing" target="_blank">Budhaditya CV</a>
+{{< fa file >}} My CV: <a href="https://drive.google.com/file/d/1_PYNuJj74yI1wADTWHWuNcKOri4ceVh_/view?usp=sharing" target="_blank">Budhaditya CV</a>
 
 <br>
 
