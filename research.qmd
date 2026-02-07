@@ -2,6 +2,45 @@
 title: "Research"
 ---
 
+## Spatial transcriptomic profiling uncovers the molecular effects of the neurotoxicant polychlorinated biphenyls (PCBs) in the brains of adult mice
+
+<p style="color:blue">Basu *et al.*</p>
+
+**Molecular Psychiatry (Mol Psychiatry)**<br><br>January, 2026
+
+### **Abstract**
+
+```{r out.width='80%', out.height='80%', echo= FALSE, fig.align='center', out.extra='style="float:middle; padding:10px"'}
+knitr::include_graphics("files/Lab_web_page_fig3.png")
+```
+
+<p align="justify">
+Polychlorinated biphenyls (PCBs) are highly stable synthetic organic compounds that are present in air, water, and soil. PCBs have been identified in post-mortem human brains, indicating a possible link between environmental factors and disease risk. Research has revealed an association between PCB exposure and cognitive decline. Therefore, it is crucial to evaluate how PCB mixtures relevant to humans affect brain function and cognition. To investigate the effects of PCBs on memory and transcriptomic profiles, we exposed male C57BL/6J mice orally to a synthetic PCB mixture daily. After seven weeks of exposure, the adult mice were assessed in a spatial object recognition task (SOR) to evaluate long-term spatial memory. Our findings showed that mice exposed to PCBs exhibited deficits in long-term spatial memory. To examine the molecular effects of PCB on the brain, we used a spatial transcriptomics technique to analyze gene expression changes in five brain regions: the hippocampus, neocortex, thalamus, caudal putamen, and fiber tracts. Our analysis of spatial gene expression revealed the molecular signatures influenced by PCB in these susceptible brain regions of mice. Network analysis suggests that these changes are associated with higher chlorinated PCBs present in the brain. Additionally, we show that PCB exposure disrupts the expression of tight junction proteins, which are crucial for maintaining the integrity of the blood-brain barrier (BBB). Thus, our results offer mechanistic insights into how PCB exposure affects brain function and cognition.
+</p>
+
+{{< fa link >}} [View Journal Link](https://doi.org/10.1038/s41380-026-03466-x){target="_blank"}
+
+{{< fa link >}} [View PubMed](https://pubmed.ncbi.nlm.nih.gov/41620578/){target="_blank"}
+
+
+
+## Differential Hes1 activation defines neural stem cell lineage commitment and niche maintenance in embryonic and adult mouse cortex
+
+<p style="color:blue">Riya *et al.*</p>
+
+**Proceedings of the National Academy of Sciences (PNAS)**<br><br>January, 2026
+
+### **Abstract**
+
+<p align="justify">
+Mode of Hes1 activation and its differential expression are crucial for the maintenance of neural stem cells/progenitor cells (NSCs/NPCs) in the embryonic cortex. This differential mode of Hes1 activation has been translated into a heterogeneous population of NSCs comprising Notch-independent Hes1-expressing (NIHes1) NSCs and Notch-dependent Hes1-expressing (NDHes1) radial glial cells (RGCs). Using single-cell transcriptomics and a Nestin-CreERT2;NIHes1^fl/fl^ conditional knock-out mouse model, we have characterized the NIHes1 NSCs. Our analyses show that NIHes1 NSCs are the ancestral precursor NSCs that generate RGCs and intermediate progenitor cells during development. Loss of NIHes1 expression significantly alters the NSC niche, leading to increased gliogenesis and aberrant migration of projection neurons. NIHes1 NSCs are set aside at embryonic stages as adult neural stem cells and are maintained by NIHes1 expression even at adult stage. Our findings suggest that NIHes1 NSCs are functionally distinct Hes1-expressing NSCs, which are critical for establishing both embryonic and adult NSC niches, thereby contributing to the overall cortical development.
+</p>
+
+{{< fa link >}} [View Journal Link](https://doi.org/10.1073/pnas.2511800123){target="_blank"}
+
+{{< fa link >}} [View PubMed](https://pubmed.ncbi.nlm.nih.gov/41557790/){target="_blank"}
+
+
 ## Single-cell resolution spatial transcriptomic signature of the retrosplenial cortex during memory consolidation
 
 <p style="color:blue">Bliese^#^,Basu^#^ *et al.*</p>
